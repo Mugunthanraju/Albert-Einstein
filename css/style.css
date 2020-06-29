@@ -1,0 +1,14 @@
+.thumbnail {background-color: #eee;}
+    body {margin-top: 33px;
+    background-color: bisque;}
+    .thumbnail .caption {background-color: #ddd;}
+
+.text-center{
+    text-align: center;
+}
+.img-circle{
+  
+    display: block;
+    margin: 0 auto;
+  
+}
